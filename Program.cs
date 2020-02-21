@@ -5,35 +5,53 @@ namespace TestApp
     class Program
     {
         private const double V = 0.0;
+        private const string V1 = "c";
+        private const string V2 = "q";
 
         static void Main(string[] args)
         {
-            double a = V;
+            bool wl = true;
             double c = V;
-            Console.Write("A = ");
-            a = Convert.ToInt32( Console.ReadLine() );
-            Console.Write("B = ");
-            double b = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Function = ");
-            string v = Console.ReadLine();
-            string f = v;
-            switch (f)
+            Console.WriteLine("Set a to q for quit.");
+            Console.WriteLine("Set a or b to c for previus result.");
+            while (wl)
             {
-                case "+":
-                    c = a + b;
+                Console.Write("A = ");
+                string a = Console.ReadLine();
+                if (a == V1) 
+                {
+                    a = Convert.ToString(c);
+                } else if ( a == V2 )
+                {
                     break;
-                case "-":
-                    c = a - b;
-                    break;
-                case "*":
-                    c = a * b;
-                    break;
-                case "/":
-                    c = a / b;
-                    break;
+                }
+                Console.Write("B = ");
+                string b = Console.ReadLine();
+                if (b == V1)
+                {
+                    b = Convert.ToString(c);
+                }
+                Console.Write("Function = ");
+                string f = Console.ReadLine();
+                double ta = Convert.ToDouble(a);
+                double tb = Convert.ToDouble(b);
+                switch (f)
+                {
+                    case "+":
+                        c = ta + tb;
+                        break;
+                    case "-":
+                        c = ta - tb;
+                        break;
+                    case "*":
+                        c = ta * tb;
+                        break;
+                    case "/":
+                        c = ta / tb;
+                        break;
+                }
+                Console.WriteLine($"C = {c}");
             }
-            Console.WriteLine( $"C = {c}");
-            Console.ReadKey();
         }
     }
 }
