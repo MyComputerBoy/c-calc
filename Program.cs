@@ -49,6 +49,12 @@ namespace TestApp
                     case "/":
                         c = ta / tb;
                         break;
+                    case "mod":
+                        c = ta-(Math.Floor(ta/tb)*tb);
+                        break;
+                    case "%":
+                        c = ta * (tb / 100);
+                        break;
                 }
                 Console.WriteLine($"C = {c}");
             }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hatel\\source\\repos\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "C:\\Users\\hatel\\Documents\\GitHub\\c-calc\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "C:\\Users\\hatel\\source\\repos\\TestApp\\TestApp.csproj",
+      "projectPath": "C:\\Users\\hatel\\Documents\\GitHub\\c-calc\\TestApp.csproj",
       "packagesPath": "C:\\Users\\hatel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hatel\\source\\repos\\TestApp\\obj\\",
+      "outputPath": "C:\\Users\\hatel\\Documents\\GitHub\\c-calc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hatel\\AppData\\Roaming\\NuGet\\NuGet.Config",

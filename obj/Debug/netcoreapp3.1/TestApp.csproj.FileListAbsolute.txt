@@ -9,3 +9,14 @@ C:\Users\hatel\source\repos\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo
 C:\Users\hatel\source\repos\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
 C:\Users\hatel\source\repos\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
 C:\Users\hatel\source\repos\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
+C:\Users\hatel\Documents\GitHub\c-calc\bin\Debug\netcoreapp3.1\TestApp.exe
+C:\Users\hatel\Documents\GitHub\c-calc\bin\Debug\netcoreapp3.1\TestApp.deps.json
+C:\Users\hatel\Documents\GitHub\c-calc\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.json
+C:\Users\hatel\Documents\GitHub\c-calc\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.dev.json
+C:\Users\hatel\Documents\GitHub\c-calc\bin\Debug\netcoreapp3.1\TestApp.dll
+C:\Users\hatel\Documents\GitHub\c-calc\bin\Debug\netcoreapp3.1\TestApp.pdb
+C:\Users\hatel\Documents\GitHub\c-calc\obj\Debug\netcoreapp3.1\TestApp.csprojAssemblyReference.cache
+C:\Users\hatel\Documents\GitHub\c-calc\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
+C:\Users\hatel\Documents\GitHub\c-calc\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
+C:\Users\hatel\Documents\GitHub\c-calc\obj\Debug\netcoreapp3.1\TestApp.dll
+C:\Users\hatel\Documents\GitHub\c-calc\obj\Debug\netcoreapp3.1\TestApp.pdb
