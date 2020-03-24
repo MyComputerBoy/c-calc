@@ -1,0 +1,9 @@
+C:\Users\hatel\source\repos\CalcGUI\bin\Debug\CalcGUI.exe.config
+C:\Users\hatel\source\repos\CalcGUI\bin\Debug\CalcGUI.exe
+C:\Users\hatel\source\repos\CalcGUI\bin\Debug\CalcGUI.pdb
+C:\Users\hatel\source\repos\CalcGUI\obj\Debug\CalcGUI.csprojAssemblyReference.cache
+C:\Users\hatel\source\repos\CalcGUI\obj\Debug\CalcGUI.Form1.resources
+C:\Users\hatel\source\repos\CalcGUI\obj\Debug\CalcGUI.Properties.Resources.resources
+C:\Users\hatel\source\repos\CalcGUI\obj\Debug\CalcGUI.csproj.GenerateResource.cache
+C:\Users\hatel\source\repos\CalcGUI\obj\Debug\CalcGUI.exe
+C:\Users\hatel\source\repos\CalcGUI\obj\Debug\CalcGUI.pdb
